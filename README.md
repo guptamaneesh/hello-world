@@ -1,2 +1,5 @@
 # hello-world
-My first repository on GitHub
+Hello everyone,
+
+This is Maneesh Gupta
+I am just a beginner learning the ways of GitHub
